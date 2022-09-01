@@ -28,7 +28,7 @@
 
 ***
 
-[![Ungzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ungzzi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ungzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ungzzi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ungzzi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
