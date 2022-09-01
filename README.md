@@ -4,7 +4,7 @@
 <br>
 
 <h3>👀About Me👀</h3>
-<p>I' for being better Developer</p>
+<h4>I've got to hit the books for being better Developer.</h4>
 <br>
 <h3>🔥Tech Stack🔥</h3>
 <h4>That I've used at least once</h4>
