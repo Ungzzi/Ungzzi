@@ -4,9 +4,10 @@
 <br>
 
 <h3>👀About Me👀</h3>
-<p>저는 ~~~ (자기소개 추가할 예정) </p>
+<p>I' for being better Developer</p>
 <br>
 <h3>🔥Tech Stack🔥</h3>
+<h4>That I've used at least once</h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
